@@ -1,1 +1,1 @@
-# stanCode-SC101-Assignments-Programming-Abstractions
+# stanCode-SC101-Programming-Abstractions-Assignments

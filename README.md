@@ -1,1 +1,1 @@
-# stanCode-SC101-Projects
+# stanCode-SC101-Assignments
